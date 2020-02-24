@@ -3,12 +3,12 @@
 This repository is there to allow you starting a new code kata fast.
 
 Requirements:
-* Java (minimally 1.8)
+* Kotlin
 * Gradle
 
 ## Clone and work on branch
 
-One posibility is to clone the repo and work on a branch. 
+One possibility is to clone the repo and work on a branch. 
 
 ```bash
 git clone <url>
@@ -26,3 +26,6 @@ Don't forget to init the git repository:
 git init
 ```
 
+## Documentation
+
+Documentation on mocking with mockk can be found here: https://mockk.io/
